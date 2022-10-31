@@ -1,2 +1,2 @@
 ### 📷 jorge.aguiar99
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAguiar99&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeAguiar99&count_private=true&theme=chartreuse-dark)
