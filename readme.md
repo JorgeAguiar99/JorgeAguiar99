@@ -1,4 +1,5 @@
-# <img src="Tux.png" alt="Texto alternativo" width="80" height="80"> The Future Is Open Source!
+<img src="Tux.png" alt="Texto alternativo" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width='80px' />
+# The Future Is Open Source! 
 
 ## Jorge Aguiar
 Seja bem-vindo ao meu perfil do GitHub!
@@ -9,7 +10,7 @@ Grande adepto ao software livre.
 
 Algumas das tecnologias com as quais trabalho:
 
-- Linguagens de programação: PHP, JS, ShellScript. 
+- Linguagens de programação: PHP, JS, ShellScript.          
 - Bancos de dados: Oracle, Mysql, MariaDB, Firebird
 - Ferramentas e plataformas: GLPI, TrueNAS, Grafana, Zabbix, AWS.
 
@@ -30,5 +31,7 @@ Aqui estão alguns projetos em destaque que trabalhei recentemente:
 
 Sinta-se à vontade para entrar em contato comigo por meio das seguintes plataformas:
 
-- LinkedIn: https://www.linkedin.com/in/jorgeaguiar99/
-- Instagram: https://www.instagram.com/jorge.aguiar99/
+<div>
+<a href="https://www.instagram.com/jorge.aguiar99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jorgeaguiar99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
