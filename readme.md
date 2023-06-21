@@ -1,9 +1,8 @@
-# The Future Is Open Source!
-### Olá! 👋
-
-Seja bem-vindo ao meu perfil do GitHub!
+# <img src="Tux.png" alt="Texto alternativo" width="80" height="80"> The Future Is Open Source!
 
 ## Jorge Aguiar
+Seja bem-vindo ao meu perfil do GitHub!
+
 Grande adepto ao software livre.
 
 ## Tecnologias
