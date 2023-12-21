@@ -8,11 +8,11 @@ Grande adepto ao software livre.
 
 ## Tecnologias
 
-Algumas das tecnologias com as quais trabalho:
+Algumas das tecnologias com as quais trabalho atualmente:
 
-- Linguagens de programação: PHP, JS, ShellScript.          
-- Bancos de dados: Oracle, Mysql, MariaDB, Firebird
-- Ferramentas e plataformas: GLPI, TrueNAS, Grafana, Zabbix, AWS.
+- Linguagens de programação: PHP 8+, JS, ShellScript.
+- Bancos de dados: Oracle, Mysql, MariaDB, Firebird.
+- Ferramentas e plataformas: GLPI, TrueNAS, Grafana, Zabbix, AWS, Redis.
 
 ## Projetos Destacados
 
