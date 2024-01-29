@@ -12,7 +12,7 @@ Algumas das tecnologias com as quais trabalho atualmente:
 
  - Linguagens: PHP 8+, JS, Java, HTML, CSS, ShellScript.
  - Bancos de dados: Oracle, Mysql, MariaDB, Firebird.
- - Ferramentas e plataformas: Linux, GIT, Docker, Docker Compose, Redis, GLPI, Grafana, Zabbix, AWS S3, Trello.
+ - Ferramentas e plataformas: Linux, Cron, GIT, Docker, Docker Compose, Redis, GLPI, Grafana, Zabbix, AWS S3, Trello.
 
 ## Projetos Destacados
 
