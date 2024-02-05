@@ -10,7 +10,7 @@
 ## Jorge Aguiar
 Seja bem-vindo ao meu perfil do GitHub!
 
-Nascido em 1999, graduado em Sistemas Para Internet pela UniAlfa de Umuarama-PR.
+Nascido em 1999, graduado em Sistemas para Internet pela UniAlfa de Umuarama-PR.
 
 Grande adepto ao software livre.
 
