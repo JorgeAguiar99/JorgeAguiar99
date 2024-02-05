@@ -1,4 +1,10 @@
-<img src="Tux.png" alt="Texto alternativo" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width='80px' />
+<div style="display: flex; align-items: center;">
+    <img src="Tux.png" alt="Tux, Linux logo" width="80">
+    <img src="new-php-logo.svg" alt="PHP Logo" width='90px'>
+    <img src="docker-original.svg" alt="Docker Logo" width='90px'>
+    <img src="grafana-original-wordmark.svg" alt="Grafana Logo" width='80px'>
+</div>
+
 # The Future Is Open Source! 
 
 ## Jorge Aguiar
