@@ -1,9 +1,12 @@
-<div style="display: flex; align-items: center;">
+<p align="center">
     <img src="Tux.png" alt="Tux, Linux logo" width="80">
-    <img src="new-php-logo.svg" alt="PHP Logo" width='90px'>
-    <img src="docker-original.svg" alt="Docker Logo" width='90px'>
-    <img src="grafana-original-wordmark.svg" alt="Grafana Logo" width='80px'>
-</div>
+    <img src="new-php-logo.svg" alt="PHP Logo" width="90">
+    <img src="docker-original.svg" alt="Docker Logo" width="90">
+    <img src="grafana-original-wordmark.svg" alt="Grafana Logo" width="80">
+    <img src="laravel.svg" alt="Laravel Logo" width="70">
+    <img src="git.svg" alt="Git Logo" width="130">
+</p>
+
 
 # The Future Is Open Source! 
 
@@ -20,7 +23,7 @@ Algumas das tecnologias com as quais trabalho atualmente:
 
  - Linguagens: PHP 8+, JS, Java, HTML, CSS, ShellScript.
  - Bancos de dados: Oracle, Mysql, MariaDB, Firebird.
- - Ferramentas e plataformas: Linux, Cron, GIT, Docker, Docker Compose, Redis, GLPI, Grafana, Zabbix, AWS S3, Trello.
+ - Ferramentas e plataformas: Linux, Laravel, Cron, GIT, Docker, Docker Compose, Redis, GLPI, Grafana, Zabbix, AWS S3, Trello.
 
 ## Projetos Destacados
 
