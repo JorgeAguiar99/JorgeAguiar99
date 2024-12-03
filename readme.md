@@ -1,11 +1,15 @@
-<p align="center">
-    <img src="Tux.png" alt="Tux, Linux logo" width="80">
-    <img src="new-php-logo.svg" alt="PHP Logo" width="90">
-    <img src="docker-original.svg" alt="Docker Logo" width="90">
-    <img src="grafana-original-wordmark.svg" alt="Grafana Logo" width="80">
-    <img src="laravel.svg" alt="Laravel Logo" width="70">
-    <img src="git.svg" alt="Git Logo" width="130">
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center"><img src="Tux.png" alt="Tux, Linux logo" width="80"></td>
+    <td align="center"><img src="new-php-logo.svg" alt="PHP Logo" width="90"></td>
+    <td align="center"><img src="docker-original.svg" alt="Docker Logo" width="90"></td>
+    <td align="center"><img src="grafana-original-wordmark.svg" alt="Grafana Logo" width="80"></td>
+    <td align="center"><img src="laravel.svg" alt="Laravel Logo" width="70"></td>
+    <td align="center"><img src="git.svg" alt="Git Logo" width="130"></td>
+  </tr>
+</table>
+
+
 
 
 # The Future Is Open Source! 
