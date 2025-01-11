@@ -25,7 +25,7 @@ Grande adepto ao software livre.
 
 Algumas das tecnologias com as quais trabalho atualmente:
 
- - Linguagens: PHP 8+, JS, Java, HTML, CSS, ShellScript.
+ - Linguagens: PHP 8+, JS, Java, ShellScript.
  - Bancos de dados: Oracle, Mysql, MariaDB, Firebird.
  - Ferramentas e plataformas: Linux, Laravel, Cron, GIT, Docker, Docker Compose, Redis, GLPI, Grafana, Zabbix, AWS S3, Trello.
 
